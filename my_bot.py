@@ -21,7 +21,10 @@ def upload_media():
 
 def auto_follow_back():
     for follower in tweepy.Cursor(api.get_followers).items():
-        follower.follow()
+        try:
+            follower.follow()
+        except:
+            print("error occured")
 
 
 

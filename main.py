@@ -4,8 +4,6 @@ import time
 period = 3600
 
 
-
 save_random_file()
 my_bot.upload_media()
 my_bot.auto_follow_back()
-time.sleep(period)
