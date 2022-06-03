@@ -2,7 +2,7 @@ import pickle
 
 def get_keys():
     """import api keys"""
-    keys = open("key.txt", "r").read().splitlines()
+    keys = open("Scripts/key.txt", "r").read().splitlines()
     return keys
 def get_folder_ids():
     ids = open("folders.txt", "r").read().splitlines()

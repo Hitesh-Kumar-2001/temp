@@ -1,6 +1,6 @@
 import tweepy
 import data_retriever
-file_name = 'image.jpeg'
+file_name = 'Scripts\image.jpeg'
 status = "you can search the artist here- https://ascii2d.net/ #waifus #animegirls #cuteanime #anime"
 keys = data_retriever.get_keys()
 apiKey = keys[0]
