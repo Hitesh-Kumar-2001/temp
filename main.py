@@ -3,7 +3,7 @@ import my_bot
 import time
 period = 3600
 
-
-save_random_file()
-my_bot.upload_media()
-my_bot.auto_follow_back()
+while(True):
+    save_random_file()
+    my_bot.upload_media()
+    my_bot.auto_follow_back()
