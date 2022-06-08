@@ -7,8 +7,8 @@ import sys
 import numpy as np
 from googleapiclient.http import MediaIoBaseDownload
 
-file_name = 'Scripts/image.jpeg'
-token = 'Scripts/token.json'
+file_name = 'image.jpeg'
+token = 'token.json'
 api_name = 'drive'
 api_version = 'v3'
 folder_id = '1wUw7kiET7c7spDZSQRoXjhDlUo5sh6bX'
