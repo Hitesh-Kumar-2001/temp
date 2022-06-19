@@ -1,7 +1,7 @@
 from DriveUtil import save_random_file
 import my_bot
 import time
-period = 3600
+period = 36
 
 while(True):
     save_random_file()
