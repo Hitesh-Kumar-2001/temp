@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="7f0e9ae9-e89f-4283-bc28-f3e5dfedd897" name="Changes" comment="hello">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DriveUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/DriveUtil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/folders.txt" beforeDir="false" afterPath="$PROJECT_DIR$/folders.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/image.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/token_drive_v3.pickle" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
