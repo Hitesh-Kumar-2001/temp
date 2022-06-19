@@ -3,7 +3,7 @@ import my_bot
 import time
 period = 3600
 
-while(True)
+while(True):
     save_random_file()
     try:
         my_bot.upload_media()
