@@ -1,5 +1,5 @@
-from DriveUtil import save_random_file
-import my_bot
+# from DriveUtil import save_random_file
+# import my_bot
 import time
 period = 36
 
