@@ -2,7 +2,6 @@
 # import my_bot
 import time
 period = 36
-
 while(True):
     # save_random_file()
     # try:
