@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f0e9ae9-e89f-4283-bc28-f3e5dfedd897" name="Changes" comment="hello">
+    <list default="true" id="7f0e9ae9-e89f-4283-bc28-f3e5dfedd897" name="Changes" comment="&#10;fsfs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/image.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/token_drive_v3.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/token_drive_v3.pickle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654255076124</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&#10;fsfs">
+      <created>1655645014677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655645014677</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello" />
+    <MESSAGE value="&#10;fsfs" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;fsfs" />
   </component>
 </project>
